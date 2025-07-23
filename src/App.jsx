@@ -103,7 +103,7 @@ function App() {
             link="https://devdave-02.github.io/Telecom-web/"
           />
           <Project
-            title="Bussiness Consulting Website"
+            title="Bussiness Consulting"
             description="A responsive WordPress site showcasing Mapejoy Consulting’s smart, simple, and sustainable solutions."
             tech="Wordpress"
             link="https://oladave3.wordpress.com/"
