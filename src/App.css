@@ -380,6 +380,7 @@ body.dark {
   margin-bottom: 0px;
   display: flex;
   justify-content: center;
+  text-align: center;
 
 }
 @media (max-width: 480px) {
@@ -399,6 +400,7 @@ body.dark {
   margin-top: 10px;
   color: black;
   margin-top: 0px;
+  
   
 }
 
