@@ -50,8 +50,8 @@ function App() {
             <span className="Text1">Hello, I'm David. </span>
             <span className="Text1">A Software Engineer.</span>
             <span className="Text2">
-              I’m passionate about technology and committed to continuous learning.<br />
-              My goal is to build user-friendly web applications, contribute,<br />
+              I’m passionate about technology and committed to continuous learning.
+              My goal is to build user-friendly web applications, contribute,
               to impactful projects, and grow into a skilled<br />
               full-stack engineer.
             </span>
@@ -70,8 +70,8 @@ function App() {
         <p className="About-text">
           <span className="Abouttext-1">About me</span>
           <span className="Abouttext-2">
-            I currently work with HTML, CSS, JavaScript, React, Next.js, and Node.js <br />
-            When I’m not coding, I enjoy teaching, reading, and <br />
+            I currently work with HTML, CSS, JavaScript, React, Next.js, and Node.js 
+            When I’m not coding, I enjoy teaching, reading, and 
             collaborating on meaningful tech projects.
           </span>
         </p>
