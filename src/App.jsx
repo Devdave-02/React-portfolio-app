@@ -56,7 +56,7 @@ function App() {
             </span>
           </p>
           <div>
-            <a href="/Resume - Okanlawon David Ibukunoluwa.pdf" target="_blank" download>
+            <a href="Resume.html" target="_blank" download>
               <button className="buttontext">Download Resume</button>
             </a>
           </div>
