@@ -52,8 +52,7 @@ function App() {
             <span className="Text2">
               I’m passionate about technology and committed to continuous learning.
               My goal is to build user-friendly web applications, contribute,
-              to impactful projects, and grow into a skilled<br />
-              full-stack engineer.
+              to impactful projects, and grow into a skilled full-stack engineer.
             </span>
           </p>
           <div>
