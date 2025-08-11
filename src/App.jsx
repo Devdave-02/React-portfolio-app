@@ -53,7 +53,7 @@ function App() {
               I’m passionate about technology and committed to continuous learning.<br />
               My goal is to build user-friendly web applications, contribute,<br />
               to impactful projects, and grow into a skilled<br />
-              full-stack developer.
+              full-stack engineer.
             </span>
           </p>
           <div>
@@ -70,8 +70,7 @@ function App() {
         <p className="About-text">
           <span className="Abouttext-1">About me</span>
           <span className="Abouttext-2">
-            I currently work with HTML, CSS, JavaScript, and React, <br />
-            and I'm diving deeper into backend development.<br />
+            I currently work with HTML, CSS, JavaScript, React, Next.js, and Node.js <br />
             When I’m not coding, I enjoy teaching, reading, and <br />
             collaborating on meaningful tech projects.
           </span>
